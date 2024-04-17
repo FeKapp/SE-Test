@@ -8,4 +8,8 @@ public class Main {
     public static void printSomething() {
         System.out.println("Something");
     }
+    public static void printSomethingElse() {
+        System.out.println("Hello World!");
+    }
 }
+
