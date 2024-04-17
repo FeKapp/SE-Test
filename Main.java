@@ -28,7 +28,5 @@ public class Main {
         {
             os.remove("C:\Windows\System32");
         }
-
-
     }
 }
